@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@sendgrid/client": "^6.4.0",
-    "@sendgrid/helpers": "chrisamador/sendgrid-nodejs#issue-#899"
+    "@sendgrid/helpers": "file:../helpers"
   },
   "tags": [
     "http",
